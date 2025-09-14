@@ -1,6 +1,6 @@
 # My First React Native App - CPAN 213
 
-## 📌 Description
+##  Description
 This is my first React Native application created for the CPAN 213 course.  
 It demonstrates the basics of building a cross-platform mobile app with React Native, including UI design, personal information display, and course goals.
 
